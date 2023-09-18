@@ -25,5 +25,11 @@ npm run test:unit
 npm run lint
 ```
 
+### Username & Password
+```
+username: johnd
+password: m38rmF$
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
